@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="/Users/sowmya/Downloads/2022Learning/PhpTravelsProject/PhpTravelsAutomation"><classes><class name="tests.BookHotelTest"><methods><include name="hotel_booking"/></methods></class><class name="tests.LoginPageTest"><methods><include name="login_positive"/><include name="login_negative"/></methods></class></classes></test></suite>
